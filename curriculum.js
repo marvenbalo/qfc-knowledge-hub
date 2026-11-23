@@ -1,7 +1,7 @@
 /* Quantitative Finance Club TU Darmstadt — curriculum map.
    Lesson text lives in content/<module>.js and is loaded on demand. */
 window.QFC = {
-  written: ["calculus"],
+  written: ["calculus", "python-foundations", "instrument-map"],
   writtenProjects: [],
   programs: [
     { id: "math", slug: "math-for-quants", name: "Math for Quants", short: "Math", weeks: 16, glyph: "∫",
